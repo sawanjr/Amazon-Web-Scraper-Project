@@ -35,11 +35,3 @@ The script uses various HTML tags and classes to extract the desired information
 - `<span class="a-price-whole">`: This tag contains the price of the mobile phone.
 
 The script finds these HTML elements using the `find` and `find_all` methods provided by BeautifulSoup, and extracts the desired information from the text content of these elements.
-
-## Disclaimer
-
-Please note that web scraping may be against the terms of service of some websites. It's important to review and comply with the website's policies before scraping any data. This script is provided for educational purposes only, and it's your responsibility to use it responsibly and in compliance with applicable laws and regulations.
-
-## License
-
-This project is licensed under the MIT License. Feel free to modify and use the code as per the license terms.
