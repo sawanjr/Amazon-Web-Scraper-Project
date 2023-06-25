@@ -1,6 +1,6 @@
 # Amazon-Web-Scraper-Project
 # Web Scraping Amazon Mobiles
-
+url = "https://www.amazon.in/s?k=mobiles&i=electronics&ref=nb_sb_ss_ts-doa-p_2_7"
 This repository contains a Python script that demonstrates web scraping of mobile phone data from the Amazon website. The script uses the `requests` library to send HTTP requests and the `BeautifulSoup` library to parse the HTML content.
 
 ## Requirements
